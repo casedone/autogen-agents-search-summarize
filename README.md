@@ -1,7 +1,7 @@
 # autogen-agents-search-summarize
 Agents to help you search and summarize from web searches, empowered by Autogen library
 
-> ℹ️ This repo contains demos that we used in our video 🎬 ["Autogen, Building Multi-Agent agentic app, Beginner-to-Master"](https://youtube.com/live/fXR2U5PlxoA)
+> ℹ️ This repo contains demos that we used in our video 🎬 ["Autogen, Building Multi-Agent agentic app, Beginner-to-Master"](https://youtube.com/live/fXR2U5PlxoA target="_blank")
 
 This repo will teach you how to:
 - Understand basic concepts of [Autogen library](https://www.microsoft.com/en-us/research/project/autogen/), a framework that enables agentic workflow and multi-agent collaboration
