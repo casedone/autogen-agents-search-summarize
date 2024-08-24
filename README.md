@@ -5,8 +5,8 @@ Agents to help you search and summarize from web searches, empowered by Autogen 
 
 This repo will teach you how to:
 - Understand basic concepts of [Autogen library](https://www.microsoft.com/en-us/research/project/autogen/), a framework that enables agentic workflow and multi-agent collaboration
-- Build simple two-agent conversations that uses a search engine (specifically DuckDuckGO)
-- Build a 'group-chat' agents to illustrate multi-agent collaboration. This group of agents will help research and summarize via web search and LLM.
+- In `basic.ipynb`, Build simple two-agent conversations that uses a search engine (specifically DuckDuckGO)
+- In `group-chat.ipynb` Build a 'group-chat' agents to illustrate multi-agent collaboration. This group of agents will help research and summarize via web search and LLM.
 
 ## Tools you will use
 - [Autogen](https://github.com/microsoft/autogen)
